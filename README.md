@@ -3,9 +3,6 @@ An ElementalList of recent blog posts.
 
 Configurable from 2-4 columns. 
 
-Includes an extensions to add an upload field and a text field to each page, allowing custom summary information to be 
-presented for this element
-
 #### Styling
 Check the "examples" folder for padding/layout starter styling.
 
